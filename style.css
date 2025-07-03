@@ -1,0 +1,13 @@
+.parent{
+	text-align: center;
+}
+.child{
+width: 50%;
+padding: 20px;
+border: 4px solid green;
+text-align: center;
+margin: auto;
+}
+.child {
+
+}
